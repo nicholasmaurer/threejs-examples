@@ -1,3 +1,7 @@
-import exampleScene from "./exampleScene";
+import ExampleScene from "./ExampleScene";
 
-this.exampleScene = new exampleScene();
+this.exampleScene = new ExampleScene();
+console.log(exampleScene);
+
+
+
