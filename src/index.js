@@ -1,7 +1,7 @@
 import ExampleScene from "./ExampleScene";
+import './style.css';
 
-this.exampleScene = new ExampleScene();
-console.log(exampleScene);
+let exampleScene = new ExampleScene();
 
 
 
